@@ -11,5 +11,4 @@ Submission 2 for Unity jr programmer pathway (OOP implementation)
 
 📽 https://learn.unity.com/submission/64a54075edbc2a7a95b1b12a
 
-![image](https://github.com/TheMIU/Programming-Theory-Repo/img.png
-
+![img](https://github.com/TheMIU/Programming-Theory-Repo/blob/main/img.png)
