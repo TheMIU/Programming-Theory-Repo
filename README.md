@@ -9,5 +9,7 @@ Submission 2 for Unity jr programmer pathway (OOP implementation)
 
 * Code is organized in a way that reduces duplicate code through higher level methods (abstraction).
 
-![image](https://github.com/TheMIU/Programming-Theory-Repo/assets/113751987/a1a9e2a3-4b92-46a7-900f-9886b0d5d1ff)
+📽 https://learn.unity.com/submission/64a54075edbc2a7a95b1b12a
+
+![image](https://github.com/TheMIU/Programming-Theory-Repo/img.png
 
