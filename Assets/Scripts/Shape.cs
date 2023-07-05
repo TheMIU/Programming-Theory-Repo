@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
+// INHERITANCE
 public class Shape : MonoBehaviour
 {
     public TextMeshProUGUI shapeDetailsText;
     protected string shapeDetails;
 
+    // ENCAPSULATION
     public string Name { get; set; }
     public Color Color { get; set; }
     public float Speed { get; set; }

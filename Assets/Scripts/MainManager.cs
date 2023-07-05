@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// INHERITANCE
 public class MainManager : MonoBehaviour
 {
     public void StartOnClick()
